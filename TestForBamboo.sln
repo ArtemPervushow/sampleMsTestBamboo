@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestForBamboo", "TestForBamboo\TestForBamboo.csproj", "{383E35D2-675E-47C9-AAC6-3290DD3ECC8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{383E35D2-675E-47C9-AAC6-3290DD3ECC8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{383E35D2-675E-47C9-AAC6-3290DD3ECC8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{383E35D2-675E-47C9-AAC6-3290DD3ECC8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{383E35D2-675E-47C9-AAC6-3290DD3ECC8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EEB2517-454D-45A8-B8EA-A82DB89B4591}
+	EndGlobalSection
+EndGlobal
